@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#DF2A50</color>
+    <color name="colorPrimaryDark">#9e223c</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="lightGrey">#DCE2EE</color>
+    <color name="grey">#485465</color>
+    <color name="blue">#3B48EE</color>
+    <color name="bg_page">#FEFEFE</color>
+    <color name="bg_roxo">#D08266BB</color>
+
+    <color name="refund">@color/amaranth</color>
+
+    <color name="colorGray">#f5f3f5</color>
+    <color name="translucent">#00000000</color>
+    <color name="translucent_dark">#99000000</color>
+    <color name="amaranth">#df2a50</color>
+    <color name="azure">#007cff</color>
+    <color name="azure_2">#007aff</color>
+    <color name="black">#000000</color>
+    <color name="black_alpha">#99000000</color>
+    <color name="timberwolf">#d8d8d8</color>
+    <color name="ku_crimson">#e01010</color>
+    <color name="pansy_purple">#741F4A</color>
+    <color name="bright_maroon">#c62a58</color>
+    <color name="rich_maroon">#9d2b65</color>
+    <color name="rich_maroon_2">#bb2a5b</color>
+    <color name="rich_maroon_3">#bd2a5a</color>
+    <color name="liver">#4b4b4b</color>
+    <color name="liver_2">#4d4d4d</color>
+    <color name="tufts_blue">#3689c1</color>
+    <color name="tufts_blue_tooltip">#3B8ABF</color>
+    <color name="gainsboro">#d9d9d9</color>
+    <color name="trolley_grey">#7a7a7a</color>
+    <color name="lime_green">#37c54a</color>
+    <color name="glaucous">#5782b3</color>
+    <color name="dark_pastel_green">#00b418</color>
+    <color name="dark_pastel_red">#bf2d25</color>
+    <color name="sea_green">#47a53f</color>
+    <color name="sea_green_alpha">#f254ad4d</color>
+    <color name="coquelicot">#e83300</color>
+    <color name="aurometalsaurus">#6b727d</color>
+    <color name="davy_grey">#535353</color>
+    <color name="white">#FFFFFF</color>
+    <color name="white_smoke">#f4f4f4</color>
+    <color name="white_smoke_alpha">#4cf6f6f6</color>
+    <color name="white_alpha">#99ffffff</color>
+    <color name="white_alpha_seventy">#B3ffffff</color>
+    <color name="manatee">#979797</color>
+    <color name="manatee_alpha">#60999999</color>
+    <color name="dim_gray">#666666</color>
+    <color name="deep_sky_blue">#00b9e6</color>
+    <color name="platinum">#e5e5e5</color>
+    <color name="platinum_alpha">#38e5e5e5</color>
+    <color name="pastel_blue">#b9cad2</color>
+    <color name="taupe_gray">#929292</color>
+    <color name="taupe">#333333</color>
+    <color name="silver">#c0c0c0</color>
+    <color name="dogwood_rose">#dc1468</color>
+    <color name="dogwood_red">#bf2d25</color>
+
+    <color name="olivia_bubble_color">#999999</color>
+
+    <color name="shimmer_color">#40ffffff</color>
+    <color name="shimmer_color_in_dogwood">#40ffffff</color>
+    <color name="shimmer_color_in_white">#40999999</color>
+    <color name="shimmer_effect_in_dogwood">#a0ffffff</color>
+
+    <color name="badge_background">#EC005D</color>
+    <color name="clear">#00000000</color>
+
+    <color name="jazzberry_jam">#ffaa1254</color>
+    <color name="dark_midnight_blue">#ff153d68</color>
+    <color name="lion">#ffbe9b60</color>
+    <color name="french_beige">#ffac8d53</color>
+    <color name="lapis_lazuli">#ff355e9f</color>
+    <color name="taupe_card">#ff3a3735</color>
+    <color name="wenge">#ff60514e</color>
+    <color name="duskYellow">#ffc922</color>
+
+</resources>
