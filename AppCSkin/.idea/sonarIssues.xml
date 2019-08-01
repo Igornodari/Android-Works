@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/fragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../ArduinoProjects/PocEveris/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../ArduinoProjects/PocEveris/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../ArduinoProjects/PocEveris/app/src/main/java/com/example/poc_everis/Helper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../ArduinoProjects/PocEveris/app/src/main/java/com/example/poc_everis/OláActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../ArduinoProjects/PocEveris/app/src/main/java/com/example/poc_everis/PerguntaActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../ArduinoProjects/PocEveris/app/src/main/java/com/example/poc_everis/dao/EmoticonsDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../ArduinoProjects/PocEveris/app/src/main/java/com/example/poc_everis/dao/User.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../ArduinoProjects/PocEveris/app/src/main/java/com/example/poc_everis/dao/UserDAO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../ArduinoProjects/PocEveris/app/src/main/java/com/example/poc_everis/dao/UserDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../ArduinoProjects/PocEveris/app/src/main/java/com/example/poc_everis/dao/carinhaDAO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../ArduinoProjects/PocEveris/app/src/main/java/com/example/poc_everis/helper/Helper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../ArduinoProjects/PocEveris/app/src/main/java/com/example/poc_everis/helper/ListAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../ArduinoProjects/PocEveris/app/src/main/java/com/example/poc_everis/views/BeaconDetectorActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../ArduinoProjects/PocEveris/app/src/main/java/com/example/poc_everis/views/ListEmoticon.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../ArduinoProjects/PocEveris/app/src/main/java/com/example/poc_everis/views/OlaActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../ArduinoProjects/PocEveris/app/src/main/java/com/example/poc_everis/views/OláActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../ArduinoProjects/PocEveris/app/src/main/java/com/example/poc_everis/views/PerguntaActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../ArduinoProjects/PocEveris/app/src/main/java/com/example/poc_everis/views/beacon/BeaconsActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../ArduinoProjects/PocEveris/app/src/main/res/layout/activity_beacon_detector.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../ArduinoProjects/PocEveris/app/src/main/res/layout/activity_emoticon_list.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../ArduinoProjects/PocEveris/app/src/main/res/layout/activity_list_emoticons.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../ArduinoProjects/PocEveris/app/src/main/res/layout/activity_main.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../ArduinoProjects/PocEveris/app/src/main/res/layout/item_list.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../ArduinoProjects/PocEveris/app/src/main/res/layout/pergunta_act.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../ArduinoProjects/PocEveris/app/src/main/res/layout/toolbar.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../ArduinoProjects/SG-Bootcamp-Beacons-master/BeaconFind/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../ArduinoProjects/SG-Bootcamp-Beacons-master/BeaconFind/app/src/main/java/com/example/beaconfind/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../ArduinoProjects/SG-Bootcamp-Beacons-master/BeaconFind/app/src/main/res/layout/activity_main.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../ArduinoProjects/SG-Bootcamp-Beacons-master/BeaconFind/app/src/main/res/layout/scan_button.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../ArduinoProjects/SG-Bootcamp-Beacons-master/BeaconFind/app/src/main/res/values/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/jacksonskin/dao/AdmDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/jacksonskin/views/FormA/FormAdm.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/jacksonskin/views/FormC/FormCliente.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/jacksonskin/views/FormC/FormularioClienteHelper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/jacksonskin/views/login/loginActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/jacksonskin/views/menu/MenuCliente.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          xmlns:tools="http://schemas.android.com/tools"
+          package="com.example.appatmconsultoria">
+
+
+    <uses-permission android:name="android.permission.PROCESS_OUTGOING_CALLS"/>
+    <uses-permission android:name="android.permission.INTERNET" />
+
+
+    <application
+            android:allowBackup="true"
+            android:icon="@mipmap/ic_launcher"
+            android:label="AppEveris v1"
+            android:roundIcon="@mipmap/ic_launcher_round"
+            android:supportsRtl="true"
+            android:theme="@style/AppTheme"
+            tools:ignore="GoogleAppIndexingWarning">
+        <activity android:name=".Login.MainACT"
+                  android:screenOrientation="portrait">
+        <intent-filter>
+            <action android:name="android.intent.action.MAIN" />
+
+            <category android:name="android.intent.category.LAUNCHER" />
+        </intent-filter>
+</activity>
+
+        <activity
+                android:name=".Menu.ACT.ConsultingACT"
+                android:parentActivityName="Empresa.empresaACT"/>
+        <activity
+                android:name=".Menu.ACT.TransformationACT"
+                android:parentActivityName="Empresa.empresaACT"/>
+        <activity
+                android:name=".Menu.ACT.OperationACT"
+                android:parentActivityName="Empresa.empresaACT"/>
+        <activity
+                android:name=".Menu.ACT.TecnologyACT"
+                android:parentActivityName="Empresa.empresaACT"/>
+        <activity
+                android:name="Empresa.empresaACT"
+                android:parentActivityName=".Dash.AppEveris"/>
+        <activity
+                android:name=".Menu.ACT.clientesACT"
+                android:parentActivityName=".Dash.AppEveris"/>
+        <activity
+                android:name=".Menu.ACT.contatoACT"
+                android:parentActivityName=".Dash.AppEveris"/>
+        <activity
+                android:name=".Menu.ACT.servicosACT"
+                android:parentActivityName=".Dash.AppEveris"/>
+        <activity android:name="Empresa.disrupcaoACT"/>
+
+        <activity android:name=".Menu.ACT.ProcessosACT"/>
+
+        <receiver android:name=".DialReciver" android:enabled="true">
+            <intent-filter >
+                <action android:name="android.intent.action.NEW_OUTGOING_CALL"/>
+            </intent-filter>
+        </receiver>
+
+    </application>
+
+</manifest>

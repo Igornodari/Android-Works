@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ADO1</string>
+    <string name="red">vermelho</string>
+    <string name="purple">roxo</string>
+    <string name="green">verde</string>
+    <string name="yellow">amarelo</string>
+</resources>

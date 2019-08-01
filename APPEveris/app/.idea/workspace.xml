@@ -1,0 +1,523 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3f95a4d6-de85-4f58-b52c-40ae5b206ea9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../ADO1/.idea/sonarIssues.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ADO1JAVA/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ADO1JAVA/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ADO1JAVA/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ADO1JAVA/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ADO1JAVA/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ADO1JAVA/.idea/sonarIssues.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ADO1JAVA/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ADO1JAVA/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ADO1JAVA/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ADO1JAVA/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ADO1JAVA/app/src/androidTest/java/com/example/ado1java/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ADO1JAVA/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ADO1JAVA/app/src/main/java/com/example/ado1java/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ADO1JAVA/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ADO1JAVA/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ADO1JAVA/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ADO1JAVA/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ADO1JAVA/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ADO1JAVA/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ADO1JAVA/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ADO1JAVA/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ADO1JAVA/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ADO1JAVA/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ADO1JAVA/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ADO1JAVA/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ADO1JAVA/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ADO1JAVA/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ADO1JAVA/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ADO1JAVA/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ADO1JAVA/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ADO1JAVA/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ADO1JAVA/app/src/test/java/com/example/ado1java/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ADO1JAVA/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ADO1JAVA/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ADO1JAVA/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ADO1JAVA/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ADO1JAVA/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ADO1JAVA/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ADO1JAVA/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarIssues.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Agenda completa/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Agenda completa/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Agenda completa/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Agenda completa/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Agenda completa/.idea/sonarIssues.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Agenda completa/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AppCSkin/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AppCSkin/.idea/sonarIssues.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AppCSkin/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AppCSkin/app/src/main/ic_carrinho-web.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AppCSkin/app/src/main/ic_cart-web.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AppCSkin/app/src/main/ic_launcher-web.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AppCSkin/app/src/main/ic_logout-web.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AppCSkin/app/src/main/ic_pedidos-web.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AppCSkin/app/src/main/ic_sair-web.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AppCSkin/app/src/main/ic_user-web.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AppCSkin/app/src/main/ic_usuario-web.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AppCSkin/app/src/main/ic_usuarioImage-web.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AppCSkin/app/src/main/java/com/example/jacksonskin/Data/Produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AppCSkin/app/src/main/java/com/example/jacksonskin/views/FormA/FormAdm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AppCSkin/app/src/main/java/com/example/jacksonskin/views/FormA/FormularioAdmHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AppCSkin/app/src/main/java/com/example/jacksonskin/views/FormC/FormCliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AppCSkin/app/src/main/java/com/example/jacksonskin/views/crud/ClientesActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AppCSkin/app/src/main/java/com/example/jacksonskin/views/crud/ListaClientesAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AppCSkin/app/src/main/java/com/example/jacksonskin/views/menu/MenuAdm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AppCSkin/app/src/main/java/com/example/jacksonskin/views/menu/MenuCliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AppCSkin/app/src/main/java/com/example/jacksonskin/views/menu/MenuRecyclerAdapterAdm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AppCSkin/app/src/main/java/com/example/jacksonskin/views/menu/MenuRecyclerAdapterCliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AppCSkin/app/src/main/res/drawable-hdpi/drawer_shadow.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AppCSkin/app/src/main/res/drawable-hdpi/ic_drawer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AppCSkin/app/src/main/res/drawable-mdpi/drawer_shadow.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AppCSkin/app/src/main/res/drawable-mdpi/ic_drawer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AppCSkin/app/src/main/res/drawable-xhdpi/drawer_shadow.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AppCSkin/app/src/main/res/drawable-xhdpi/ic_drawer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AppCSkin/app/src/main/res/drawable-xxhdpi/drawer_shadow.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AppCSkin/app/src/main/res/drawable-xxhdpi/ic_drawer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AppCSkin/app/src/main/res/drawable/arma1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AppCSkin/app/src/main/res/drawable/arma10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AppCSkin/app/src/main/res/drawable/arma11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AppCSkin/app/src/main/res/drawable/arma2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AppCSkin/app/src/main/res/drawable/arma3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AppCSkin/app/src/main/res/drawable/arma4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AppCSkin/app/src/main/res/drawable/arma5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AppCSkin/app/src/main/res/drawable/arma6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AppCSkin/app/src/main/res/drawable/arma7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AppCSkin/app/src/main/res/drawable/arma8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AppCSkin/app/src/main/res/drawable/arma9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AppCSkin/app/src/main/res/drawable/bloodsport.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AppCSkin/app/src/main/res/drawable/fundo.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AppCSkin/app/src/main/res/drawable/ic_cart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AppCSkin/app/src/main/res/drawable/ic_pedidos.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AppCSkin/app/src/main/res/drawable/ic_sair.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AppCSkin/app/src/main/res/drawable/ic_usuario.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AppCSkin/app/src/main/res/drawable/images.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AppCSkin/app/src/main/res/drawable/r8_14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AppCSkin/app/src/main/res/layout/activity_clientes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AppCSkin/app/src/main/res/layout/activity_form_adm.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AppCSkin/app/src/main/res/layout/activity_menu_adm.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AppCSkin/app/src/main/res/layout/activity_menu_cliente.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AppCSkin/app/src/main/res/layout/card_menu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AppCSkin/app/src/main/res/layout/item_adm.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AppCSkin/app/src/main/res/layout/item_nome_cliente.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AppCSkin/app/src/main/res/layout/item_produto_cliente.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AppCSkin/app/src/main/res/layout/item_usuarios.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AppCSkin/app/src/main/res/layout/nav_header.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AppCSkin/app/src/main/res/layout/nav_header_adm.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AppCSkin/app/src/main/res/layout/produtos_adm.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AppCSkin/app/src/main/res/layout/produtos_cliente.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AppCSkin/app/src/main/res/layout/toolbar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AppCSkin/app/src/main/res/layout/toolbar_adm.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AppCSkin/app/src/main/res/menu/nav_intens_drawer.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AppCSkin/app/src/main/res/menu/nav_intens_drawer_adm.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AppCSkin/app/src/main/res/mipmap-mdpi/ic_cart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AppCSkin/app/src/main/res/mipmap-mdpi/ic_pedidos.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AppCSkin/app/src/main/res/mipmap-mdpi/ic_sair.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AppCSkin/app/src/main/res/mipmap-mdpi/ic_usuario.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AppCSkin/app/src/main/res/mipmap-xhdpi/ic_cart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AppCSkin/app/src/main/res/mipmap-xhdpi/ic_pedidos.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AppCSkin/app/src/main/res/mipmap-xhdpi/ic_sair.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AppCSkin/app/src/main/res/mipmap-xhdpi/ic_usuario.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AppCSkin/app/src/main/res/mipmap-xhdpi/ic_usuario_image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AppCSkin/app/src/main/res/mipmap-xxhdpi/ic_cart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AppCSkin/app/src/main/res/mipmap-xxhdpi/ic_pedidos.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AppCSkin/app/src/main/res/mipmap-xxhdpi/ic_sair.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AppCSkin/app/src/main/res/mipmap-xxhdpi/ic_usuario.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AppCSkin/app/src/main/res/mipmap-xxhdpi/ic_usuario_image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AppCSkin/app/src/main/res/mipmap-xxxhdpi/ic_cart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AppCSkin/app/src/main/res/mipmap-xxxhdpi/ic_pedidos.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AppCSkin/app/src/main/res/mipmap-xxxhdpi/ic_sair.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AppCSkin/app/src/main/res/mipmap-xxxhdpi/ic_usuario.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AppCSkin/app/src/main/res/mipmap-xxxhdpi/ic_usuario_image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AppCSkin/app/src/main/res/values-w820dp/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AppCSkin/app/src/main/res/values/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BeaconLocalizeApp/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BeaconLocalizeApp/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BeaconLocalizeApp/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BeaconLocalizeApp/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BeaconLocalizeApp/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BeaconLocalizeApp/.idea/sonarIssues.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BeaconLocalizeApp/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BeaconLocalizeApp/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BeaconLocalizeApp/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BeaconLocalizeApp/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BeaconLocalizeApp/app/src/androidTest/java/com/example/beaconlocalizeapp/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BeaconLocalizeApp/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BeaconLocalizeApp/app/src/main/java/com/example/beaconlocalizeapp/BeaconsMonitoringService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BeaconLocalizeApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BeaconLocalizeApp/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BeaconLocalizeApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BeaconLocalizeApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BeaconLocalizeApp/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BeaconLocalizeApp/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BeaconLocalizeApp/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BeaconLocalizeApp/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BeaconLocalizeApp/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BeaconLocalizeApp/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BeaconLocalizeApp/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BeaconLocalizeApp/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BeaconLocalizeApp/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BeaconLocalizeApp/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BeaconLocalizeApp/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BeaconLocalizeApp/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BeaconLocalizeApp/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BeaconLocalizeApp/app/src/test/java/com/example/beaconlocalizeapp/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BeaconLocalizeApp/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BeaconLocalizeApp/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BeaconLocalizeApp/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BeaconLocalizeApp/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BeaconLocalizeApp/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BeaconLocalizeApp/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BeaconLocalizeApp/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Prj_14_RecyclerView/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Prj_14_RecyclerView/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Prj_14_RecyclerView/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Prj_14_RecyclerView/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Prj_14_RecyclerView/.idea/sonarIssues.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Prj_14_RecyclerView/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../android-studio-iii-fragments-maps-gps-2.0/.idea/android-studio-iii-fragments-maps-gps-2.0.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../android-studio-iii-fragments-maps-gps-2.0/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../android-studio-iii-fragments-maps-gps-2.0/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../android-studio-iii-fragments-maps-gps-2.0/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../android-studio-iii-fragments-maps-gps-2.0/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-721872453">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="2" />
+          <entry key="txt" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="2" />
+          <entry key="PLAIN_TEXT" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/appatmconsultoria/DialReciver.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/appatmconsultoria/Dash/AppEveris.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="297">
+              <caret line="53" column="26" selection-start-line="53" selection-start-column="26" selection-end-line="53" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="952" />
+    <option name="width" value="977" />
+    <option name="height" value="1038" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="app" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="app" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="app" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="app" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="app" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="app" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="app" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="appatmconsultoria" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="app" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="appatmconsultoria" type="462c0819:PsiDirectoryNode" />
+              <item name="Dash" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="app" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="appatmconsultoria" type="462c0819:PsiDirectoryNode" />
+              <item name="Login" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="app" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="appatmconsultoria" type="462c0819:PsiDirectoryNode" />
+              <item name="Menu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="app" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="appatmconsultoria" type="462c0819:PsiDirectoryNode" />
+              <item name="Menu" type="462c0819:PsiDirectoryNode" />
+              <item name="ACT" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="app" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Empresa" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.project.structure.last.selected" value="SDK Location" />
+    <property name="android.project.structure.proportion" value="0.15" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../accengage-android-sdk-samples-master/accengage-android-sdk-samples-master/AccBeacons" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="&lt;template&gt;" type="Applet" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3f95a4d6-de85-4f58-b52c-40ae5b206ea9" name="Default Changelist" comment="" />
+      <created>1557004856984</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557004856984</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info id="Designer" />
+      <window_info id="Build Variants" side_tool="true" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Capture Tool" />
+      <window_info content_ui="combo" id="Project" visible="true" weight="0.3295302" />
+      <window_info id="Image Layers" />
+      <window_info id="Structure" side_tool="true" />
+      <window_info id="Captures" order="0" weight="0.25" />
+      <window_info active="true" anchor="bottom" id="Build" visible="true" weight="0.32991204" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="TODO" />
+      <window_info anchor="bottom" id="SonarLint" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="SonarQube" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Gradle" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Theme Preview" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/build/outputs/logs/manifest-merger-debug-report.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="162" column="9" selection-start-line="162" selection-start-column="9" selection-end-line="162" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/appatmconsultoria/DialReciver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/appatmconsultoria/Dash/AppEveris.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="53" column="26" selection-start-line="53" selection-start-column="26" selection-end-line="53" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

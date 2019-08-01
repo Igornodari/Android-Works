@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Menu.ACT.OperationACT"
+    tools:layout_editor_absoluteY="81dp">
+
+
+    <TextView
+            android:id="@+id/textView9"
+            android:layout_width="178dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginEnd="8dp"
+            android:layout_marginBottom="8dp"
+            android:paddingStart="15dp"
+            android:text="@string/opera_o"
+            android:textColor="@android:color/holo_green_light"
+            android:textSize="18sp"
+            app:layout_constraintBottom_toTopOf="@+id/guideline56"
+            app:layout_constraintEnd_toStartOf="@+id/guideline53"
+            app:layout_constraintStart_toStartOf="@+id/guideline49"
+            app:layout_constraintTop_toTopOf="@+id/guideline55" android:background="@android:color/transparent"/>
+
+
+    <android.support.constraint.Guideline
+        android:id="@+id/guideline49"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintGuide_begin="16dp" />
+
+    <android.support.constraint.Guideline
+        android:id="@+id/guideline53"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintGuide_end="17dp" />
+
+    <android.support.constraint.Guideline
+        android:id="@+id/guideline55"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_end="507dp" />
+
+    <android.support.constraint.Guideline
+        android:id="@+id/guideline56"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_begin="86dp" />
+
+    <android.support.constraint.Guideline
+        android:id="@+id/guideline52"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_end="18dp" />
+
+    <ScrollView
+        android:id="@+id/scrollView2"
+        style="@android:style/Widget.DeviceDefault.Light.ScrollView"
+        android:layout_width="318dp"
+        android:layout_height="385dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp"
+        android:padding="8dp"
+        android:scrollbarStyle="insideOverlay"
+        android:visibility="visible"
+        app:layout_constraintEnd_toStartOf="@+id/guideline53"
+        app:layout_constraintStart_toStartOf="@+id/guideline49"
+        app:layout_constraintTop_toTopOf="@+id/guideline56"
+        tools:background="@android:color/background_light">
+
+
+        <TextView
+            android:id="@+id/textView10"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="15dp"
+            android:text="
+   Os mercados ganharam uma notável maturidade em termos de automatização.
+  No entanto, no contexto da mudança constante que caracteriza a economia e a sociedade digital, têm diante de si inúmeros desafios:
+  Ausência de uma inovação prática, realista e pragmática orientada aos negócios.
+  Proliferação de aplicações digitais de nicho.
+  Modelos operacionais não compatíveis com o negócio digital.
+  Processos e ferramentas de gestão de manutenção de sistemas imaturos para um modelo end2end.
+
+Na everis, entendemos que a melhor resposta é aquela que é oferecida por meio de uma combinação de excelência operacional, experiência e capacidade de transformação:
+
+-  A everis é parceira de seus clientes e contribui com a estratégia das empresas por meio de sua orientação para o resultado de negócio, através de equipes de trabalho flexíveis, multidisciplinares e híbridas (negócio, digital e tecnologia).
+-  A everis oferece soluções baseadas em produtos e serviços que garantem a renovação tecnológica, incorporando a inovação disruptiva.
+-  A everis é uma empresa digital que fornece sua estratégia bimodal com visão end2end (desde a inovação até a operação).
+-  A everis dispõe de serviços automatizados com capacidade global de entrega e com foco em qualidade, inovação e produtividade.
+-  A everis é uma empresa flexível que adapta cada operação às necessidades concretas de seus clientes.
+    Nosso foco é trabalhar com um objetivo comum com o máximo compromisso, transformando a infraestrutura tecnológica e alcançando vantagens competitivas para nossos clientes."
+            app:layout_constraintBottom_toBottomOf="@+id/scrollView2"
+            tools:layout_editor_absoluteX="31dp" />
+
+    </ScrollView>
+
+</android.support.constraint.ConstraintLayout>

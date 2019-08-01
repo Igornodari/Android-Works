@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/fragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../AppCSkin/app/src/main/java/com/example/jacksonskin/Data/Produto.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../AppCSkin/app/src/main/java/com/example/jacksonskin/Utils/ClickRecyclerView_Interface.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../AppCSkin/app/src/main/java/com/example/jacksonskin/Utils/HMAux.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../AppCSkin/app/src/main/java/com/example/jacksonskin/views/menu/ItemClickListener.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../AppCSkin/app/src/main/java/com/example/jacksonskin/views/menu/MenuActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../AppCSkin/app/src/main/java/com/example/jacksonskin/views/menu/MenuModel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../AppCSkin/app/src/main/java/com/example/jacksonskin/views/menu/MenuRecyclerAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../AppCSkin/app/src/main/java/com/example/jacksonskin/views/menu/MenuRecyclerAdapterAdm.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../AppCSkin/app/src/main/java/com/example/jacksonskin/views/menu/MenuRecyclerAdapterCliente.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../AppCSkin/app/src/main/java/com/example/jacksonskin/views/menu/RecyclerAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../AppCSkin/app/src/main/res/layout/content_main.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../AppCSkin/app/src/main/res/layout/menuprod_item.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../AppCSkin/app/src/main/res/layout/toolbar.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

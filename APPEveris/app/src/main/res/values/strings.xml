@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">APPATMCONSULTORIA</string>
+    <string name="o_que_fazemos">O QUE FAZEMOS</string>
+    <string name="contato">Contato</string>
+    <string name="disrup_o">Disrupção</string>
+    <string name="empresa">EverisApp</string>
+    <string name="opera_o">OPERAÇÃO</string>
+    <string name="servicos_id">SERVIÇOS</string>
+    <string name="consultoria">Consultoria</string>
+    <string name="processos">Processos</string>
+    <string name="acompanhamento_e_projetos">Acompanhamento e Projetos</string>
+    <string name="selecionamos_implementamos_e_otimizamos_as_melhores_tecnologias_e_solu_es_empresariais_para_acelerar_o_processo_da_transforma_o_digital_acreditamos_no_desenvolvimento_de_um_conhecimento_tecnol_gico_robusto_agregando_valor_cria_o_de_projetos_diferenciados_e_apoiando_nosso_trabalho_por_meio_dos_melhores_m_todos_e_ferramentas_data_e_digital_experience_est_o_se_tornando_for_as_fundamentais_para_uma_transforma_o_digital_cada_vez_mais_ligada_s_pessoas_nossa_estrat_gia_se_baseia_em_identificar_as_aspira_es_as_necessidades_e_os_desejos_dos_nossos_clientes_para_sermos_capazes_de_construir_produtos_digitais_eficientes_e_sustent_veis_gra_as_a_este_processo_somos_capazes_de_gerar_interfaces_que_transmitem_emo_es_emo_es_essas_que_levam_a_o_em_prol_dos_nossos_objetivos_atualmente_projetamos_arquiteturas_s_lidas_que_s_o_a_base_de_nossas_solu_es_capazes_de_se_adaptar_e_responder_de_forma_eficaz_ao_crescimento_e_s_mudan_as_que_vivem_os_mais_diferentes_setores_da_economia_enquanto_integramos_a_import_ncia_do_dado_atrav_s_de_diferentes_sistemas_finalmente_utilizamos_as_melhores_solu_es_empresariais_para_otimizar_o_relacionamento_com_os_clientes_e_seus_processos_internos_ao_mesmo_tempo_que_potencializamos_ao_m_ximo_seus_benef_cios_combinamos_essas_solu_es_com_as_ltimas_tecnologias_para_oferecer_a_melhor_resposta_a_cada_desafio_empresarial_iot_blockchain_e_erp_s_o_apenas_alguns_dos_exemplos_de_tecnologias_disruptivas_com_as_quais_a_everis_promove_a_transforma_o_digital">
+        Selecionamos, implementamos e otimizamos as melhores tecnologias e soluções empresariais para acelerar o
+        processo da transformação digital. Acreditamos no desenvolvimento de um conhecimento tecnológico robusto,
+        agregando valor à criação de projetos diferenciados e apoiando nosso trabalho por meio dos melhores métodos e
+        ferramentas. Data e digital experience estão se tornando forças fundamentais para uma transformação digital cada
+        vez mais ligada às pessoas. Nossa estratégia se baseia em identificar as aspirações, as necessidades e os
+        desejos dos nossos clientes para sermos capazes de construir produtos digitais eficientes e sustentáveis. Graças
+        a este processo, somos capazes de gerar interfaces que transmitem emoções, emoções essas que levam à ação em
+        prol dos nossos objetivos. Atualmente, projetamos arquiteturas sólidas, que são a base de nossas soluções,
+        capazes de se adaptar e responder de forma eficaz ao crescimento e às mudanças que vivem os mais diferentes
+        setores da economia, enquanto integramos a importância do dado através de diferentes sistemas. Finalmente,
+        utilizamos as melhores soluções empresariais para otimizar o relacionamento com os clientes e seus processos
+        internos, ao mesmo tempo que potencializamos ao máximo seus benefícios. Combinamos essas soluções com as últimas
+        tecnologias para oferecer a melhor resposta a cada desafio empresarial. IoT, blockchain e ERP são apenas alguns
+        dos exemplos de tecnologias disruptivas com as quais a everis promove a transformação digital.
+    </string>
+    <string name="tecnologia">TECNOLOGIA</string>
+    <string name="transforma_es">TRANSFORMAÇÕES</string>
+    <string name="ao_falar_de_transforma_o_digital_sabemos_que_n_o_se_pode_pensar_em_solu_es_com_base_em_modelos_padronizados_de_mudan_a_cada_empresa_possui_suas_especificidades_e_tem_prioridades_e_necessidades_nicas_nossa_vis_o_envolve_colabora_o_para_reinventar_as_plataformas_tecnol_gicas_que_possam_incorporar_com_sucesso_as_inova_es_dos_pr_ximos_anos_pensando_sempre_no_cliente_final_humanizando_experi_ncias_e_criando_novos_processos_que_aperfei_oem_o_relacionamento_com_as_pessoas_e_com_os_objetos">
+        Ao falar de transformação digital, sabemos que não se pode pensar em soluções com base em modelos padronizados
+        de mudança; cada empresa possui suas especificidades e tem prioridades e necessidades únicas. Nossa visão
+        envolve colaboração para reinventar as plataformas tecnológicas que possam incorporar com sucesso as inovações
+        dos próximos anos, pensando sempre no cliente final, humanizando experiências e criando novos processos que
+        aperfeiçoem o relacionamento com as pessoas e com os objetos.
+    </string>
+    <string name="aloha">aloha</string>
+    <string name="nossos_clientes">nossos_Clientes</string>
+    <string name="EverisLogo">EverisLogo</string>
+    <string name="aloha2">cliente</string>
+    <string name="contato_meu">meu_contato</string>
+    <string name="todo">TODO</string>
+    <string name="call">Call</string>
+    <string name="login">login</string>
+    <string name="nome">Nome</string>
+    <string name="senha">Senha</string>
+    <string name="go">Login</string>
+    <string name="cancelar">Cancelar</string>
+</resources>

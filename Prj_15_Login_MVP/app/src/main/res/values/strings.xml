@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Prj_15_Login_MVP</string>
+    <string name="error_name">Erro: Nome é Obrigatório!!!</string>
+    <string name="error_password">Erro: Senha é Obrigatória!!!</string>
+    <string name="error_credential">Credenciais Invalidas!!!</string>
+
+    <string name="nav_implements">Nao Implementada</string>
+
+</resources>

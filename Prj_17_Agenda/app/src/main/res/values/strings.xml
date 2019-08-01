@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">PocDialMyApp</string>
+    <string name="app_title">Assistente everis</string>
+    <string name="check_invoice">Consultar Fatura</string>
+    <string name="chatbot">Assistente Virtual</string>
+    <string name="faqs">Perguntas Frequentes</string>
+    <string name="call">Falar com um atendente</string>
+    <string name="title">Selecione uma opção:</string>
+    <string name="lorem">Lorem ipsum etiam tortor volutpat ipsum justo inceptos, vehicula amet ac dapibus tellus congue, at class justo integer ornare cubilia. </string>
+    <string name="perguntas_frequentes">Perguntas frequentes:</string>
+    <string name="about">About us</string>
+    <string name="about_everis">Sobre a everis</string>
+    <string name="about_everis_text">Somos uma equipe de atuação mundial, de pessoas apaixonadas pelo que fazem e por aquilo em que acreditam, lideradas por valores e onde qualquer sonho pode se tornar realidade. Nossa razão de ser são as pessoas, acreditamos firmemente em seu desenvolvimento integral e elas são o nosso ativo mais valioso. Pois, sem elas nada seria possível.</string>
+    <string name="technology">Technology</string>
+    <string name="technology_text">Selecionamos, implementamos e otimizamos as melhores tecnologias e soluções empresariais para acelerar o processo da transformação digital. Acreditamos no desenvolvimento de um conhecimento tecnológico robusto, agregando valor à criação de projetos diferenciados e apoiando nosso trabalho por meio dos melhores métodos e ferramentas.</string>
+    <string name="beliefs_text">As pessoas e seu desenvolvimento integral têm de ser o propósito da companhia e não meros recursos a empregar. O alto rendimento profissional é potencializado ao criar um contexto de liberdade responsável.</string>
+    <string name="beliefs">Beliefs</string>
+    <string name="disrupting_text">Trabalhamos a disrupção do mundo dos negócios baseados em tecnologias exponenciais e iniciativas inovadoras. Valorizamos os nossos serviços por meio da inteligência artificial, estimulamos a educação tecnológica dos nossos profissionais por meio de tecnologias criativas e somos o ponto de contato entre o ecossistema global de startups e as grandes empresas.</string>
+    <string name="disrupting">Disrupting</string>
+</resources>

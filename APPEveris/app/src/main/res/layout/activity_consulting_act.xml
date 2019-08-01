@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Menu.ACT.ConsultingACT">
+
+    <TextView
+            android:id="@+id/textView9"
+            android:layout_width="154dp"
+            android:layout_height="33dp"
+            android:layout_marginBottom="8dp"
+            android:layout_marginEnd="8dp"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="8dp"
+            android:paddingStart="15dp"
+            android:text="CONSULTANDO"
+            android:textColor="@android:color/holo_green_light"
+            android:textSize="18sp"
+            app:layout_constraintBottom_toTopOf="@+id/guideline60"
+            app:layout_constraintEnd_toStartOf="@+id/guideline59"
+            app:layout_constraintStart_toStartOf="@+id/guideline58"
+            app:layout_constraintTop_toTopOf="@+id/guideline57" app:layout_constraintHorizontal_bias="0.502"
+            app:layout_constraintVertical_bias="0.375" android:background="@android:color/transparent"/>
+
+    <android.support.constraint.Guideline
+        android:id="@+id/guideline42"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_end="28dp" />
+
+
+    <android.support.constraint.Guideline
+
+        android:id="@+id/guideline57"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_begin="20dp" />
+
+    <android.support.constraint.Guideline
+        android:id="@+id/guideline58"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintGuide_begin="16dp" />
+
+    <android.support.constraint.Guideline
+        android:id="@+id/guideline59"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintGuide_end="17dp" />
+
+    <android.support.constraint.Guideline
+        android:id="@+id/guideline60"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_begin="96dp" />
+
+    <ScrollView
+        android:id="@+id/scrollView2"
+        android:layout_width="370dp"
+        android:layout_height="439dp"
+        android:layout_marginBottom="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:padding="16dp"
+        android:visibility="visible"
+        app:layout_constraintBottom_toTopOf="@+id/guideline42"
+        app:layout_constraintEnd_toStartOf="@+id/guideline59"
+        app:layout_constraintHorizontal_bias="0.571"
+        app:layout_constraintStart_toStartOf="@+id/guideline58"
+        app:layout_constraintTop_toTopOf="@+id/guideline60"
+        app:layout_constraintVertical_bias="0.0"
+        tools:background="@android:color/background_light">
+
+
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="15dp"
+            android:text="Sempre tivemos muito clara a ideia de que o nosso propósito é auxiliar as empresas a atingirem a excelência por meio de uma assessoria de qualidade que as ajudem a aprimorarem suas atividades e processos de gestão.
+            Sabemos que as organizações precisam de soluções que lhes permitam crescer de forma inteligente e sustentável.
+            Criar propostas de valor que alinhem os objetivos do negócio com a revolução digital que a sociedade está vivendo é a chave do sucesso que possibilitará às empresas do século XXI se diferenciarem em um mercado cada vez mais volátil.
+            Growth e Excellence são as linhas mestras da nossa abordagem de consultoria estratégica e da revolução digital.
+            Cada uma delas abrange serviços especializados e desenhados especificamente para oferecer soluções reais, flexíveis e sustentáveis."
+            app:layout_constraintBottom_toBottomOf="@+id/scrollView2"
+            tools:layout_editor_absoluteX="31dp"
+             />
+
+    </ScrollView>
+
+</android.support.constraint.ConstraintLayout>

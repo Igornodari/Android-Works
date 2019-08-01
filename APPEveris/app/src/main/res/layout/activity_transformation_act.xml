@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Menu.ACT.TransformationACT">
+
+    <TextView
+            android:id="@+id/textView9"
+            android:layout_width="266dp"
+            android:layout_height="47dp"
+            android:layout_marginBottom="8dp"
+            android:layout_marginEnd="8dp"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="8dp"
+            android:paddingStart="15dp"
+            android:text="@string/transforma_es"
+            android:textColor="@android:color/holo_green_light"
+            android:textSize="24sp"
+            app:layout_constraintBottom_toTopOf="@+id/guideline64"
+            app:layout_constraintEnd_toStartOf="@+id/guideline62"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="@+id/guideline61"
+            app:layout_constraintTop_toTopOf="@+id/guideline63" app:layout_constraintVertical_bias="0.678"
+            android:background="@android:color/transparent"/>
+
+    <ScrollView
+        android:id="@+id/scrollView2"
+        android:layout_width="370dp"
+        android:layout_height="357dp"
+        android:layout_marginBottom="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginTop="8dp"
+        android:padding="16dp"
+        android:visibility="visible"
+        app:layout_constraintBottom_toTopOf="@+id/guideline42"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.606"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/guideline64"
+        app:layout_constraintVertical_bias="0.552"
+        tools:background="@android:color/background_light">
+
+
+        <TextView
+                android:id="@+id/textView4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="15dp"
+                android:text="@string/ao_falar_de_transforma_o_digital_sabemos_que_n_o_se_pode_pensar_em_solu_es_com_base_em_modelos_padronizados_de_mudan_a_cada_empresa_possui_suas_especificidades_e_tem_prioridades_e_necessidades_nicas_nossa_vis_o_envolve_colabora_o_para_reinventar_as_plataformas_tecnol_gicas_que_possam_incorporar_com_sucesso_as_inova_es_dos_pr_ximos_anos_pensando_sempre_no_cliente_final_humanizando_experi_ncias_e_criando_novos_processos_que_aperfei_oem_o_relacionamento_com_as_pessoas_e_com_os_objetos"
+                android:visibility="visible"
+                app:layout_constraintBottom_toBottomOf="@+id/scrollView2"
+                app:layout_constraintTop_toTopOf="@+id/scrollView2"
+                app:layout_constraintVertical_bias="0.23"
+                tools:layout_editor_absoluteX="0dp" android:background="@android:color/transparent"/>
+    </ScrollView>
+
+    <android.support.constraint.Guideline
+        android:id="@+id/guideline42"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_begin="522dp" />
+
+    <android.support.constraint.Guideline
+        android:id="@+id/guideline61"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintGuide_begin="20dp" />
+
+    <android.support.constraint.Guideline
+        android:id="@+id/guideline62"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintGuide_end="17dp" />
+
+    <android.support.constraint.Guideline
+        android:id="@+id/guideline63"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_begin="20dp" />
+
+    <android.support.constraint.Guideline
+        android:id="@+id/guideline64"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_begin="111dp" />
+
+</android.support.constraint.ConstraintLayout>

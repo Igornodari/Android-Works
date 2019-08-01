@@ -1,0 +1,8 @@
+<root>
+    <item name='java.lang.Thread void blockedOn(Interruptible) 0'>
+        <annotation name='android.support.annotation.Nullable' />
+    </item>
+    <item name='java.lang.Thread.Caches'>
+        <annotation name='java.lang.Deprecated' />
+    </item>
+</root>

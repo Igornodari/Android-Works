@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="Empresa.disrupcaoACT">
+
+    <TextView
+            android:id="@+id/textView9"
+            android:layout_width="168dp"
+            android:layout_height="44dp"
+            android:layout_marginBottom="8dp"
+            android:layout_marginEnd="8dp"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="8dp"
+            android:paddingStart="15dp"
+            android:text="DISRUPÇÃO"
+            android:textColor="@android:color/holo_green_light"
+            android:textSize="24sp"
+            app:layout_constraintBottom_toTopOf="@+id/guideline47"
+            app:layout_constraintEnd_toStartOf="@+id/guideline43"
+            app:layout_constraintHorizontal_bias="0.503"
+            app:layout_constraintStart_toStartOf="@+id/guideline45"
+            app:layout_constraintTop_toTopOf="parent" app:layout_constraintVertical_bias="0.0"
+            android:background="@android:color/transparent" android:backgroundTint="@android:color/transparent"/>
+
+    <android.support.constraint.Guideline
+        android:id="@+id/guideline43"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintGuide_end="31dp" />
+
+    <android.support.constraint.Guideline
+        android:id="@+id/guideline45"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintGuide_begin="31dp" />
+
+    <android.support.constraint.Guideline
+        android:id="@+id/guideline46"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_end="34dp" />
+
+    <android.support.constraint.Guideline
+        android:id="@+id/guideline47"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_percent="0.11" />
+
+    <android.support.constraint.Guideline
+        android:id="@+id/guideline48"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_begin="170dp" />
+
+    <ScrollView
+        android:id="@+id/scrollView2"
+        android:layout_width="318dp"
+        android:layout_height="455dp"
+        android:layout_marginBottom="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:padding="15dp"
+        android:visibility="visible"
+        app:layout_constraintBottom_toTopOf="@+id/guideline46"
+        app:layout_constraintEnd_toStartOf="@+id/guideline43"
+        app:layout_constraintHorizontal_bias="0.625"
+        app:layout_constraintStart_toStartOf="@+id/guideline45"
+        app:layout_constraintTop_toTopOf="@+id/guideline47"
+        app:layout_constraintVertical_bias="0.066"
+        tools:background="@android:color/background_light">
+
+        <TextView
+            android:id="@+id/textView10"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="15dp"
+            android:text=" Trabalhamos a disrupção do mundo dos negócios baseados em tecnologias exponenciais e iniciativas inovadoras.
+     Valorizamos os nossos serviços por meio da inteligência artificial, estimulamos a educação tecnológica dos nossos profissionais por meio de tecnologias criativas e somos o ponto de contato entre o ecossistema global de startups e as grandes empresas.
+    A everis está vivendo essa mudança como espectadora e como um agente ativo dessa transformação.
+
+    Augmented workforce
+
+    Augmented Workforce é uma iniciativa que procura incrementar o valor dos funcionários, fornecendo-lhes “ajudantes” para isso.
+    Nós o fazemos através de duas abordagens: software (Artificial Intelligence) e hardware (Social Robots).
+
+    AW - Artificial Intelligence:
+
+    Através da Augmented Workforce, nós utilizamos a inteligência artificial para criar trabalhadores virtuais (Next Artificial Workers) que possam aumentar as capacidades das pessoas, de forma que estas tenham a oportunidade de concentrar todo o seu potencial onde se sintam mais confortáveis e mais contribuam, apoiando-se num trabalhador virtual para todo o resto.
+     Para que os NAWers possam realizar este processo, nós devemos ensiná-los a tarefa que queremos que eles realizem em nosso lugar através de um ambiente de aprendizagem.
+     Desse modo, o sistema pode realizar essa tarefa da mesma maneira que a realizaria uma pessoa ou chegando, inclusive, a aperfeiçoar seu método.
+
+    AW -  Social Robotics:
+
+    Nós da Augmented Workforce queremos que os robôs se integrem socialmente e aumentem nossas capacidades; por isso, é preciso que a interação com as pessoas seja fluente, fomentando assim um bom relacionamento com eles.
+    A chave está em como o robô atua (seu comportamento), não tanto naquilo que ele faz.
+     Por isso, na NextGen surge uma Cloud Robotics Platform, que permite que as pessoas se concentrem no desenvolvimento de comportamentos, dissociando o âmbito técnico do projeto e implantação do comportamento e a lógica do mesmo, possibilitando que as pessoas criem um comportamento que poderão utilizar em qualquer robô inscrito na cloud."
+            app:layout_constraintBottom_toBottomOf="@+id/scrollView2"
+            tools:layout_editor_absoluteX="31dp" />
+    </ScrollView>
+
+
+</android.support.constraint.ConstraintLayout>

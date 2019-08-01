@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Prj_13_DBase</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Act001 Login -->
+    <string name="lista_contatos">Lista de Contatos</string>
+
+    <!-- Act002 Form -->
+    <string name="form_contatos">Detalhes do Contato</string>
+
+
+
+</resources>

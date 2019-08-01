@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="93e13acc-5443-4d04-a17f-8cfbf3edf435" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../ADO1/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ADO1/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ADO1/.idea/sonarIssues.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ADO1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../APPEveris/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FruitAppkt/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FruitAppkt/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FruitAppkt/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyApplication/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Prj_16_Login_MVVM/SqliteProject/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Prj_16_Login_MVVM/SqliteProject/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Prj_16_Login_MVVM/SqliteProject/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Prj_16_Login_MVVM/SqliteProject/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Prj_16_Login_MVVM/SqliteProject/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Prj_16_Login_MVVM/SqliteProject/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Prj_16_Login_MVVM/SqliteProject/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Prj_16_Login_MVVM/SqliteProject/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Prj_16_Login_MVVM/SqliteProject/app/src/androidTest/java/com/example/ilealnod/sqliteproject/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Prj_16_Login_MVVM/SqliteProject/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Prj_16_Login_MVVM/SqliteProject/app/src/main/java/com/example/ilealnod/sqliteproject/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Prj_16_Login_MVVM/SqliteProject/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Prj_16_Login_MVVM/SqliteProject/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Prj_16_Login_MVVM/SqliteProject/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Prj_16_Login_MVVM/SqliteProject/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Prj_16_Login_MVVM/SqliteProject/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Prj_16_Login_MVVM/SqliteProject/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Prj_16_Login_MVVM/SqliteProject/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Prj_16_Login_MVVM/SqliteProject/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Prj_16_Login_MVVM/SqliteProject/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Prj_16_Login_MVVM/SqliteProject/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Prj_16_Login_MVVM/SqliteProject/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Prj_16_Login_MVVM/SqliteProject/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Prj_16_Login_MVVM/SqliteProject/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Prj_16_Login_MVVM/SqliteProject/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Prj_16_Login_MVVM/SqliteProject/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Prj_16_Login_MVVM/SqliteProject/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Prj_16_Login_MVVM/SqliteProject/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Prj_16_Login_MVVM/SqliteProject/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Prj_16_Login_MVVM/SqliteProject/app/src/test/java/com/example/ilealnod/sqliteproject/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Prj_16_Login_MVVM/SqliteProject/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Prj_16_Login_MVVM/SqliteProject/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Prj_16_Login_MVVM/SqliteProject/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Prj_16_Login_MVVM/SqliteProject/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Prj_16_Login_MVVM/SqliteProject/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Prj_16_Login_MVVM/SqliteProject/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Prj_16_Login_MVVM/SqliteProject/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../tdd-android-parte-1-projeto-inicial/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../tdd-android-parte-1-projeto-inicial/.idea/sonarIssues.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../tdd-android-parte-1-projeto-inicial/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../tdd-android-parte-1-projeto-inicial/app/src/androidTest/java/br/com/alura/leilao/model/LeilaoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../APPEveris/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../APPEveris/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../APPEveris/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../APPEveris/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../APPEveris/.idea/runConfigurations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../APPEveris/.idea/runConfigurations.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../APPEveris/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../APPEveris/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../APPEveris/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../APPEveris/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../APPEveris/app/src/main/java/Empresa/disrupcaoACT.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../APPEveris/app/src/main/java/com/example/appatmconsultoria/Menu/ACT/disrupcaoACT.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../APPEveris/app/src/main/java/Empresa/empresaACT.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../APPEveris/app/src/main/java/com/example/appatmconsultoria/Menu/ACT/empresaACT.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../APPEveris/app/src/main/java/com/example/appatmconsultoria/Dash/AppEveris.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../APPEveris/app/src/main/java/com/example/appatmconsultoria/Menu/ACT/Dash/AppEveris.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../APPEveris/app/src/main/java/com/example/appatmconsultoria/DialReciver.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../APPEveris/app/src/main/java/com/example/appatmconsultoria/DialReciver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../APPEveris/app/src/main/java/com/example/appatmconsultoria/Login/MainACT.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../APPEveris/app/src/main/java/com/example/appatmconsultoria/Login/MainACT.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../APPEveris/app/src/main/java/com/example/appatmconsultoria/Login/VIEWMODEL.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../APPEveris/app/src/main/java/com/example/appatmconsultoria/Login/VIEWMODEL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../APPEveris/app/src/main/res/layout/Login.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../APPEveris/app/src/main/res/layout/login.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../APPEveris/app/src/main/res/layout/activity_app_everis.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../APPEveris/app/src/main/res/layout/activity_app_everis.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../APPEveris/app/src/main/res/layout/activity_disrupcao_act.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../APPEveris/app/src/main/res/layout/activity_disrupcao_act.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../APPEveris/app/src/main/res/layout/activity_empresaact.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../APPEveris/app/src/main/res/layout/activity_empresaact.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../APPEveris/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../APPEveris/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../APPEveris/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../APPEveris/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Agenda completa/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Agenda completa/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Agenda completa/app/src/main/java/br/com/alura/agenda/ListaAlunosActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Agenda completa/app/src/main/java/br/com/alura/agenda/ListaAlunosActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Agenda completa/app/src/main/java/br/com/alura/agenda/dao/alunoDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Agenda completa/app/src/main/java/br/com/alura/agenda/dao/alunoDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Prj_14_RecyclerView/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Prj_14_RecyclerView/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Prj_14_RecyclerView/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Prj_16_Login_MVVM/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Prj_16_Login_MVVM/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Prj_16_Login_MVVM/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Prj_16_Login_MVVM/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Prj_16_Login_MVVM/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Prj_17_Agenda/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Prj_17_Agenda/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Prj_17_Agenda/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Prj_17_Agenda/.idea/modules.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1409580426">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="949" />
+    <option name="width" value="980" />
+    <option name="height" value="1031" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.project.structure.last.selected" value="SDK Location" />
+    <property name="android.project.structure.proportion" value="0.15" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="&lt;template&gt;" type="Applet" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="93e13acc-5443-4d04-a17f-8cfbf3edf435" name="Default Changelist" comment="" />
+      <created>1552011431938</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552011431938</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <layout>
+      <window_info id="Designer" />
+      <window_info id="Build Variants" side_tool="true" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Capture Tool" />
+      <window_info content_ui="combo" id="Project" visible="true" weight="0.32955465" />
+      <window_info id="Image Layers" />
+      <window_info id="Structure" side_tool="true" />
+      <window_info id="Captures" order="0" weight="0.25" />
+      <window_info active="true" anchor="bottom" id="Build" visible="true" weight="0.3283859" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="TODO" />
+      <window_info anchor="bottom" id="SonarLint" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="SonarQube" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Gradle" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Theme Preview" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
